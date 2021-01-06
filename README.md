@@ -10,5 +10,5 @@ Description:The ScreenSaver class creates 8 different objects with
           
 Guessing Game
 
-Description: The Guessing Game is a GUI application using 4 classes.
+Description: The Guessing Game is a GUI application using 4 files.
              
